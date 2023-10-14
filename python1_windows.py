@@ -11,7 +11,7 @@ output_message_1 = "Your number is palindromic !"
 output_message_2 = "Your number is not palindromic !"
 
 # system messages
-system_message_1 = ">>> Please enter a number: "
+system_message_1 = ">>> Please enter a number (q:exit) : "
 system_message_2 = "Goodbye !"
 
 # ==============================================================================================
