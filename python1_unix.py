@@ -26,7 +26,7 @@ system_message_2 = white + "Goodbye !"
 
 running = True
 while running:
-    number = input('\n' + system_message_1 + yesil)
+    number = input('\n' + system_message_1 + green)
 
     try:
         if number == str(int(float(number))):
