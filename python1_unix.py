@@ -19,7 +19,7 @@ output_message_1 = cyan + "Your number is palindromic !"
 output_message_2 = cyan + "Your number is not palindromic !"
 
 # system messages
-system_message_1 = white + ">>> Please enter a number: "
+system_message_1 = white + ">>> Please enter a number (q:exit) : "
 system_message_2 = white + "Goodbye !"
 
 # ==============================================================================================
